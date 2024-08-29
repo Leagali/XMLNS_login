@@ -1,0 +1,16 @@
+C:\DevC\C#\App_Lessa\App_Lessa\bin\Debug\App_Lessa.exe.config
+C:\DevC\C#\App_Lessa\App_Lessa\bin\Debug\App_Lessa.exe
+C:\DevC\C#\App_Lessa\App_Lessa\bin\Debug\App_Lessa.pdb
+C:\DevC\C#\App_Lessa\App_Lessa\obj\Debug\App_Lessa.csproj.AssemblyReference.cache
+C:\DevC\C#\App_Lessa\App_Lessa\obj\Debug\App_Lessa.csproj.SuggestedBindingRedirects.cache
+C:\DevC\C#\App_Lessa\App_Lessa\obj\Debug\MainWindow.g.cs
+C:\DevC\C#\App_Lessa\App_Lessa\obj\Debug\App.g.cs
+C:\DevC\C#\App_Lessa\App_Lessa\obj\Debug\App_Lessa_MarkupCompile.cache
+C:\DevC\C#\App_Lessa\App_Lessa\obj\Debug\App_Lessa_MarkupCompile.lref
+C:\DevC\C#\App_Lessa\App_Lessa\obj\Debug\MainWindow.baml
+C:\DevC\C#\App_Lessa\App_Lessa\obj\Debug\App_Lessa.g.resources
+C:\DevC\C#\App_Lessa\App_Lessa\obj\Debug\App_Lessa.Properties.Resources.resources
+C:\DevC\C#\App_Lessa\App_Lessa\obj\Debug\App_Lessa.csproj.GenerateResource.cache
+C:\DevC\C#\App_Lessa\App_Lessa\obj\Debug\App_Lessa.csproj.CoreCompileInputs.cache
+C:\DevC\C#\App_Lessa\App_Lessa\obj\Debug\App_Lessa.exe
+C:\DevC\C#\App_Lessa\App_Lessa\obj\Debug\App_Lessa.pdb
